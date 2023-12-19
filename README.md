@@ -1,5 +1,5 @@
 # TR-Rules
-Official implementation of "TR-Rules: Rule-based Model for Link Forecasting on Temporal Knowledge Graph Considering Temporal Redundancy" which is accpeted by the Findings of [EMNLP'23](https://2023.emnlp.org/) [[Paper](https://aclanthology.org/2023.findings-emnlp.529/)].
+Official implementation of "TR-Rules: Rule-based Model for Link Forecasting on Temporal Knowledge Graph Considering Temporal Redundancy" which is accpeted by the Findings of [[EMNLP'23](https://2023.emnlp.org/)] [[Paper](https://aclanthology.org/2023.findings-emnlp.529/)].
 
 # Citation
 If you use our code in your work, please cite the following:
